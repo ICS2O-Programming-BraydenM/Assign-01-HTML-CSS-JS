@@ -5,24 +5,33 @@
 */
 
 body  {
-  background-color: skyblue;
+  background-color: mistyrose;
 }
 
-h1  {
-  background-color: rgb(231, 191, 182);
-  color: hsl(208, 86%, 53%);
-  padding: 40px;
-  text-align: center;
-}
-
-p  {
-  background-color: #21EE5F;
-}
-
-h2.normal {
-  font-variant: normal;
-}
 
 h2.small {
   font-variant: small-caps;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+h1 {
+	background-color: rgb(255, 192, 203);
+	color: hsl(145, 63%, 32%);
+	padding: 40px;
+	text-align: center;
