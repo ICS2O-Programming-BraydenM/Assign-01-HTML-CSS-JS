@@ -1,2 +1,2 @@
 # Assign-01-HTML-CSS-JS
-[![GitHub's Super Linter](https://github.com/ICS2O-Programming-BraydenM/Assignment-01-HTML-CSS-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-BraydenM/Assignment-01-HTML-CSS-JS/actions)
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-BraydenM/Assign-01-HTML-CSS-JS/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-BraydenM/Assign-01-HTML-CSS-JS/actions)
