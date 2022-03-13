@@ -1,11 +1,12 @@
 /* Created by: Brayden MacMillan
-* Created on: Feb 2022
+* Created on: March 13 2022
 * This CSS file defines the style for index.html
 * ICS2O-Assign-01-HTML-CSS-JS
 */
 
 body  {
   background-color: mistyrose;
+  font-family: times new roman;
 }
 
 
