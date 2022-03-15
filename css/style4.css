@@ -1,9 +1,9 @@
 /* Created by: Brayden MacMillan
-* Created on: March 13 2022
-* This CSS file defines the style for ultraviolence.html
+* Created on: March 15 2022
+* This CSS file defines the style for normanrockwell.html
 * ICS2O-Assign-01-HTML-CSS-JS
 */
-  
+
 .container {
   position: relative;
   text-align: center;
@@ -41,27 +41,23 @@
   transform: translate(-50%, -50%);
 }
 
-body  {
-  background-color: darkmagenta;
+body {
+  background-color: lightgreen;
   font-family: times new roman;
 }
 
 .glow {
   font-size: 80px;
-  color: #fff;
+  color: #00BFFF;
   text-align: center;
   animation: glow 1s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    text-shadow: 0 0 10px #90EE90, 0 0 20px #FFFF00, 0 0 30px #FFFF00, 0 0 40px #00FA9A, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #00FA9A;
   }
   
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #3CB371, 0 0 30px #FFFF00, 0 0 40px #FFFF00, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
   }
-
-.demo-list-icon {
-  width: 300px;
-}
