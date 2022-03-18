@@ -4,6 +4,11 @@
 * ICS2O-Assign-01-HTML-CSS-JS
 */
   
+body {
+  background-color: darkmagenta;
+  font-family: times new roman;
+}
+
 .container {
   position: relative;
   text-align: center;
